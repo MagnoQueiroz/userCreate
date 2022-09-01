@@ -67,7 +67,6 @@ remove() {
   }
 }
 void main() {
-  List<Username>  usernames = [];
   Username username = Username();
   username.usernames = username.add();
 
