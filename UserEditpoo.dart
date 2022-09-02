@@ -1,7 +1,7 @@
 import 'dart:io';
 
 class Username {
-  List<String> usernames = ["uepa", "test"];
+  List<String> usernames = ["jose", "joao"];
   add() {
     print("deseja adicionar um username ao sistema? S/N");
 
